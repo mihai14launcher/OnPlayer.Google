@@ -7,7 +7,7 @@ OnPlayer is an open-source project that allows you to download MP4/MP3 files fro
 ### Step 1: Download the Extension Files
 
 1. **Download the Extension Files:**
-   - Visit the [OnPlayer Chrome GitHub repository](https://github.com/mihai14launcher/OnPlayer.Chrome).
+   - Visit the [OnPlayer Chrome GitHub repository](https://github.com/mihai14launcher/OnPlayer.Google).
    - Click on the green "Code" button and select "Download ZIP".
    - Extract the downloaded ZIP file to a temporary folder on your computer.
 
