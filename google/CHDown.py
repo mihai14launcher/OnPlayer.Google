@@ -21,7 +21,7 @@ def download_video(url, format, output_path):
             'preferredquality': '192',
         }] if format == 'mp3' else [],
         'merge_output_format': 'mp4' if format == 'mp4' else None,
-        'ffmpeg_location': 'C:/ffmpeg/bin'  # Înlocuiește cu calea reală către ffmpeg
+        'ffmpeg_location': 'C:\VOX\Extensions\OnPlayer\Required\FFMPEG\bin'  
     }
     
     try:
